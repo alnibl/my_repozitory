@@ -4,3 +4,5 @@ print("These are new local changes")
 print(3)
 print(4)
 print(5)
+def summ(a, b):
+    return a+b
